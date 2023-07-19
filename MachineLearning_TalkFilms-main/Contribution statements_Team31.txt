@@ -1,0 +1,40 @@
+<Contribution statements of mini-project report>
+
+------------------------------------------------------------------
+[Method] 
+
+- Logistic regression 	   Taeyang Choi
+- LDA, QDA 	   Taeyang Choi
+- K nearest neighbor    Gustav Reichert
+- Decision Tree            Yu-Ching Li
+- Boosting                   Yu-Ching Li
+
+------------------------------------------------------------------
+[Comparison]	
+Gustav Reichert, Taeyang Choi, Yu-Ching Li
+
+Table.1 – Taeyang Choi
+
+------------------------------------------------------------------
+[Insights in Feature importance]
+Gustav Reichert, Taeyang Choi, Yu-Ching Li
+
+ROC/AUC graph - Gustav Reichert
+Table 3 - Yu-Ching Li
+Figure.3 ~ Figure.6 - Yu-Ching Li
+
+------------------------------------------------------------------
+[Open and Free discussion]
+Gustav Reichert, Taeyang Choi, Yu-Ching Li
+
+------------------------------------------------------------------
+[What we choose to use in production]
+Gustav Reichert, Taeyang Choi, Yu-Ching Li
+
+Figure.7 – Yu-Ching Li
+
+------------------------------------------------------------------
+[Conclusions]
+Gustav Reichert, Taeyang Choi, Yu-Ching Li
+
+------------------------------------------------------------------
